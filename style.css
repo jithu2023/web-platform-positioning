@@ -1,0 +1,23 @@
+.parent {
+    background-color: aqua;
+    height: 1000px;
+}
+.child-1 {
+    background-color: red;
+    position: absolute;
+}
+.child-2 {
+    background-color: azure;
+    position: relative;
+    left: 20px;
+}
+.child-3 {
+   background-color: greenyellow;
+  position: fixed;
+}
+.child-4 {
+   background-color: grey;
+}
+body{
+  background-color: aqua;
+}
